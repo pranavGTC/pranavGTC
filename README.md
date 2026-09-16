@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavGTC
-- 👀 I’m interested in new technology like spring,ai
-- 🌱 I’m currently learning springmvc
+- 👀 I’m interested in new technique  like VArious o type off attack
+- 🌱 I’m currently learning offensive security
 - 💞️ I’m looking to collaborate on new startup idea
 - 📫 How to reach me  with my likndien or socaial media platform like twiiter ,insta etc
 - 😄 Pronouns: 
